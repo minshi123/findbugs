@@ -1,3 +1,4 @@
+[![Build Status](https://www.travis-ci.org/dreaminplus/findbugs.svg?branch=master)](https://www.travis-ci.org/dreaminplus/findbugs)
 # FindBugs is now SpotBugs
 
 [Old FindBugs site](http://findbugs.sourceforge.net).
